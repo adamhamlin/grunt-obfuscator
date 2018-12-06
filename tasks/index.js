@@ -1,5 +1,5 @@
 
-var obfuscator = require('obfuscator');
+var obfuscator = require('obfuscator-es');
 var fs = require('fs');
 
 module.exports = function(grunt) {
